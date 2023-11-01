@@ -31,7 +31,7 @@ You can contribute to this repository in the following ways:
 
    ```bash
    git clone https://github.com/Ravikisha/Open-Contribution-Repository.git
-   cd open-contribution
+   cd Open-Contribution-Repository
    ```
 
 3. **Create a Branch:**
