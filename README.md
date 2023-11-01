@@ -30,7 +30,7 @@ You can contribute to this repository in the following ways:
 2. **Clone Your Fork:**
 
    ```bash
-   git clone https://github.com/ravikisha/open-contribution.git
+   git clone https://github.com/Ravikisha/Open-Contribution-Repository.git
    cd open-contribution
    ```
 
